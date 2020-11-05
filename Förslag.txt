@@ -1,0 +1,9 @@
+* kunna ta bort en fil (hel ordlista)
+* kunna välja vilket språk man vill öva på om ordlistan innehåller mer än två språk (dvs ange två språk som används (slumpmässigt) som "från"/ "till")
+* Om man tar bort sista ordet i en ordlista - fråga om man också ska ta bort själva listan
+* kunna slå ihop ordlistor (de måste ha samma språk dock)
+* kunna splitta ordlistor per ett eller fler språk (om man vill ha fler ord, men inte på alla språk som nu finns i listan)
+* refakturering: när man lagt till ord i ordlistan skulle man kunna 'appenda' filen istället för att spara om hela varje gång
+* inte kunna lägga till samma ord (med samma översättning) flera gånger
+* kunna lägga till ett nytt språk i existerande ordlista (måste tugga igenom alla ord för ny översättning dock)
+
